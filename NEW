@@ -723,7 +723,7 @@
 				{
 					"abbreviation": "PSU",
 					"prestige": "85",
-					"hexColor": "#7A0019",
+					"hexColor": "#041E42",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -4387,7 +4387,7 @@
 						"name": "Jeff Monken",
 						"contractYear": "0"
 					},
-					"name": "Army Black",
+					"name": "Army",
 					"state": "New York"
 				},
 				{
