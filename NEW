@@ -3044,9 +3044,9 @@
 
 				
 				{
-					"abbreviation": "DUKE",
-					"prestige": "50",
-					"hexColor": "#003087",
+					"abbreviation": "UNC",
+					"prestige": "48",
+					"hexColor": "#7BAFD4",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -3091,7 +3091,7 @@
 						"name": "David Cutliffe",
 						"contractYear": "0"
 					},
-					"name": "Duke Blue",
+					"name": "North Carolina",
 					"state": "North Carolina"
 				}
 			],
@@ -4024,7 +4024,7 @@
 						"name": "Jay Norvell",
 						"contractYear": "0"
 					},
-					"name": "Nevada Wolfpack",
+					"name": "Nevada",
 					"state": "Nevada"
 				},
 				{
